@@ -864,13 +864,15 @@ $GEOIP_REGION_NAME = array (
     '07' => 'Nordrhein-Westfalen',
     '08' => 'Rheinland-Pfalz',
     '09' => 'Saarland',
-    10 => 'Schleswig-Holstein',
-    11 => 'Brandenburg',
-    12 => 'Mecklenburg-Vorpommern',
-    13 => 'Sachsen',
-    14 => 'Sachsen-Anhalt',
-    15 => 'Thuringen',
-    16 => 'Berlin',
+  ),
+  'DD' => array (
+    '01' => 'Schleswig-Holstein',
+    '02' => 'Brandenburg',
+    '03' => 'Mecklenburg-Vorpommern',
+    '04' => 'Sachsen',
+    '05' => 'Sachsen-Anhalt',
+    '06' => 'Thuringen',
+    '07' => 'Berlin',
   ),
   'DJ' => 
   array (
